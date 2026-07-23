@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/amjad-mm/github-solutions/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/amjad-mm/github-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/amjad-mm/github-solutions/tree/master/1977-number-of-ways-to-separate-numbers) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/amjad-mm/github-solutions/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/amjad-mm/github-solutions/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
